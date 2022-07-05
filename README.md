@@ -21,7 +21,5 @@
 
 <h2> Github Status </h2> 
 <a href="https://github.com/akunlee/github-readme-stats"><img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akunlee&layout=compact&theme=tokyonight" /></a>
-<img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=akunlee&theme=tokyonight" alt="akunlee" />
-
-
+![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=akunlee&show_icons=true&theme=tokyonight)
 
