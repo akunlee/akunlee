@@ -1,6 +1,6 @@
 <div align="center" width="50">
 
-<img src="https://github.com/akunlee/akunlee/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/akunlee" alt="CoDiNg RocKs"  width="550"/><br> 
+<img src="https://github.com/akunlee/akunlee/blob/main/images/working.png?raw=true" href="https://github.com/akunlee" alt="CoDiNg RocKs"  width="550"/><br> 
   
 <h2>
   hi👋! I'm akun,welcome to my github profile!
