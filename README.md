@@ -1,13 +1,3 @@
-<div align="center" width="50">
-
-<img src="https://github.com/akunlee/akunlee/blob/main/images/working.png?raw=true" href="https://github.com/akunlee" alt="CoDiNg RocKs"  width="550"/><br> 
-  
-<h2>
-  hi👋! I'm akun,welcome to my github profile!
-</h2>
-
-</div>
-
 ![tools_I_use](https://img.shields.io/badge/-%F0%9F%9A%80%20Tools%20I%20use-orange)
 ![semicolon](https://img.shields.io/badge/-%3A-orange)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
